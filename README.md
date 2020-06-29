@@ -1,3 +1,2 @@
-# Ekzamen po proizvodstvennoy practike
-#
-# Podlevskikh Danil IR-31
+# Экзамен по производственной практике
+# Подлевских Данил ИР-31
